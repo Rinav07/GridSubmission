@@ -1,6 +1,6 @@
 <h1>GridSubmission</h1>
 
-<h3>This repository is our officcial submission for Flipkart Grid 5.0.</h3>
+<h3>This repository is our official submission for Flipkart Grid 5.0.</h3>
 <h3>"TEAM:686250-U6L6C9R8"</h3>
 
 <h4>Please find here</h4>
