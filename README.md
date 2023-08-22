@@ -1,1 +1,1 @@
-<h6>GridSubmission</h6>
+<h1>GridSubmission</h1>
